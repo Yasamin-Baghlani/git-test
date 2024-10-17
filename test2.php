@@ -2,10 +2,10 @@
 
 class test2
 {
-    public function Test ()
+    public function Test2 ()
     {
         echo "Das ist test2";
     }
 }
-$gitTest1 = new index();
-$gitTest1->Test();
+$gitTest1 = new test2();
+$gitTest1->Test2();
