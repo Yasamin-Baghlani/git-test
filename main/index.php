@@ -8,6 +8,7 @@ class index
         echo "es war erfolgreich :)";
         echo "das ist konflikt-test";
         echo "merge test";
+        echo "danger";
     }
 }
 $gitTest1 = new index();
